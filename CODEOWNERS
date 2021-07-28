@@ -1,3 +1,2 @@
 * @codeowners-test-org/red
 /ranch/* @codeowners-test-org/green
-/ranch/nested/ @codeowners-test-org-blue
